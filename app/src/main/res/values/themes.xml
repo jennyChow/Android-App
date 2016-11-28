@@ -1,0 +1,7 @@
+<resources>
+    <!-- Login activity theme. -->
+    <style name="LoginTheme" parent="android:Theme.Black.NoTitleBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

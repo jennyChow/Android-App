@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Please put your application's app ID and keys here -->
+    <string name="parse_app_id">X8jj9UoEYSdN7KyyR1HAF2NErV3AO9ueVq31NGyA</string>
+    <string name="parse_client_key">bR6Cklzb1hTvpg4AKAgLosg3ombAW52g3IpP4FIU</string>
+    <string name="facebook_app_id">348546722005727</string>
+    <string name="twitter_consumer_key">mdabW0EB3exWnpz85TShHc39p</string>
+    <string name="twitter_consumer_secret">PGmTCdPsk4MPmZpavfxVGdv0Jvyft2hh0wNhRQzVLVQtvRJ9KD</string>
+    <string name="profile_logo_content_description">Logo</string>
+    <string name="profile_title_logged_in">Your are logged in as</string>
+    <string name="profile_logout_button_label">Log out</string>
+    <string name="app_name">Spot</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log Out</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="account_username">Email Address:</string>
+    <string name="account_display_name">Nickname:</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <string-array name="nav_drawer_titles">
+        <item>Map</item>
+        <item>Profile</item>
+        <item>Friends</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_web_site</item>
+        <item>@drawable/ic_action_person</item>
+        <item>@drawable/ic_action_person</item>
+    </array>
+
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
